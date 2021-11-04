@@ -1,0 +1,66 @@
+html,
+body {
+    background-color: #f8eee7;
+    color: #011562;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #EFB4A6;
+    border-radius: 8px;
+    margin: 50px auto;
+    padding: 50px 100px 100px 100px;
+    width: 50%;
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 3em;
+}
+
+a {
+    text-decoration: none;
+    color: #011562;
+
+}
+
+ul {
+    list-style: none;
+}
+
+section {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    padding: 50px;
+    border-radius: 8px;
+    background-color: #B59C9F;
+    text-align: center;
+    margin: 50px;
+}
+
+
+a:hover{
+    color: #395E88;
+}
+
+/* 
+pastel palette
+#f8eee7 tan
+#EEA09E pink
+#395E88 navy blue
+#837F95 purple
+#89B9BA green
+*/
+
+
+/*
+#EFB4A6 pink
+#011562 navy blue
+#837F95 purple
+#42ADB9 green
+*/
