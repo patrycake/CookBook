@@ -5,6 +5,26 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 3em;
+}
+
+a {
+    text-decoration: none;
+    color: #011562;
+}
+
+ul {
+    list-style: none;
+}
+
+a:hover {
+    color: #89B9BA;
+}
+
+/* INDEX STYLES */
+
 .main-header {
     text-align: center;
     background-color: #EFB4A6;
@@ -12,26 +32,15 @@ body {
     margin: 50px auto;
     padding: 50px 100px 100px 100px;
     width: 50%;
+    background-image: url("img/ella-olsson-7EhPbdAQG-s-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
-h1 {
-    font-family: 'Berkshire Swash', cursive;
-    font-size: 3em;
-}
-
-h1,
-p {
-    color: #011562;
-}
-
-a {
-    text-decoration: none;
-    color: #011562;
-
-}
-
-ul {
-    list-style: none;
+.main-h1,
+.main-p {
+    text-shadow: 2px 2px rgb(0, 0, 0, 1);
+    color: #89B9BA;
 }
 
 .main-section {
@@ -48,9 +57,7 @@ ul {
     margin: 50px;
 }
 
-a:hover {
-    color: #395E88;
-}
+
 
 /* 
 pastel palette
@@ -80,9 +87,11 @@ pastel palette
     margin: 0;
     text-align: center;
 }
+
 .hero-thanksgiving-img {
     background-image: url("img/priscilla-du-preez-0KMpOEdqkJE-unsplash.jpg");
 }
+
 .recipe-h1 {
     padding: 50px;
     margin: 0;
@@ -93,11 +102,11 @@ pastel palette
     background-color: rgb(0, 0, 0, 0.5);
 }
 
-.description-card{
+.description-card {
     display: block;
 }
 
-.container{
+.container {
     text-align: center;
-   /* margin: 0 auto;*/
+    /* margin: 0 auto;*/
 }
