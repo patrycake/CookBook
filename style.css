@@ -74,14 +74,15 @@ pastel palette
 .recipe-header {
     width: 100%;
     height: 500px;
-    background-image: url("img/priscilla-du-preez-0KMpOEdqkJE-unsplash.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
     margin: 0;
     text-align: center;
 }
-
+.hero-thanksgiving-img {
+    background-image: url("img/priscilla-du-preez-0KMpOEdqkJE-unsplash.jpg");
+}
 .recipe-h1 {
     padding: 50px;
     margin: 0;
