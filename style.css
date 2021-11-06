@@ -91,6 +91,10 @@ pastel palette
     background-image: url("img/christina-rumpf-qjh-BCHbHis-unsplash.jpg");
 }
 
+.hero-christmas-img {
+    background-image: url("img/tolga-ahmetler-Wq8z8MCItu0-unsplash.jpg");
+}
+
 .recipe-h1 {
     padding: 50px;
     margin: 0;
